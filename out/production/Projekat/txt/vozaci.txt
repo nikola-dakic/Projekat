@@ -1,0 +1,6 @@
+1|luka|luka123|Luka|Lazarevic|0108955104256|Tolstojeva 12|1|065517239|70000.0|br 1|1|false
+2|nidza|nidza123|Nikola|Radakovic|52152152521|Narodnog fornta 75|0|06348879|75000.0|2|2|false
+3|vule|vule123|Vukasin|Todorovic|3547683|Pariske Komune 23|0|06546345|65000.0|3|3|false
+4|stefan|stefan123|Stefan|Gak|34668|Boze Kuzmanovica 20|0|06286545|60000.0|4|4|false
+5|ranko|ranko123|Ranko|Dakic|34099034|Savska 32|0|065898934|55000.0|5|5|false
+6|radojica|radojica123|Radojica|Rankovic|843893|Vojvode Supljicka 18|0|34893489|438934.0|6|6|false

@@ -1,0 +1,9 @@
+1|nikola|nikola123|Nikola|Dakic|1508995251241|Lukijana Musickog 12|0|0650722922|false
+2|joca|joca123|Jovan|Stankovic|0709995124524|Zitni trg 3|0|066072266|false
+3|pera|pera123|Petar|Petrovic|1803996125643|Filipa Visnjica 11|0|0645243256|false
+4|milos|milos123|Milos|Milosevic|2504987827643|Kosovska 37|0|06598764|false
+5|jovana|jovana123|Jovana|Jovanovic|2904000190012|Narodnog fronta 12|0|0642542243|false
+6|zoki|zoki123|Zoran|Zoric|2712000125643|Klisanski breg 13|0|0649372577|false
+7|borko|borko123|Borko|Vrazalic|83498|Kacka petlja 24|0|065343432|false
+8|mire|mire123|Miroslav|Mirkovic|234231|BIib|0|093494344|true
+10|mandara|mandara123|Marino|Magda|439009|94034390|0|90409394|true

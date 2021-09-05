@@ -1,0 +1,5 @@
+1|steva|steva123|Aleksandar|Stevovic|348934898934|Marka Kraljevica 11|1|06354646|45000.0|1|1|false
+2|jelena|jelena123|Jelena|Vidovic|78745342|Masarikova 18|0|06478643|50000.0|2|1|false
+3|uros|uros123|Uros|Dobric|687332454|Kisacka 2|0|06146764|35000.0|3|1|false
+4|sonja|sonja123|Sonja|Milic|46757345|Petra Drapsina 25|1|062546789|55000.0|4|1|false
+5|marko|marko123|Marko|Markovic|873426|Somborski put 45|1|063677865|45000.0|5|1|false
