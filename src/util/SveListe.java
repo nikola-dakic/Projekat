@@ -203,27 +203,6 @@ public class SveListe {
             System.out.println("Greska prilikom upisa dispecera u fajl.");
         }
     }
-/*    public void snimiDispecere(String putanja) {
-
-        try {
-            File file = new File("src/files/dispeceri.txt");
-            BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-            String sadrzaj = "";
-            for (Dispecer dispecer : dispeceri) {
-                sadrzaj += dispecer.getId() + "|" + dispecer.getKorisnickoIme() + "|" + dispecer.getLozinka() + "|"
-                        + dispecer.getIme() + "|" + dispecer.getPrezime() + "|"
-                        + dispecer.getJmbg() + "|" + dispecer.getAdresa() + "|"
-                        + dispecer.getPol().ordinal() + "|" + dispecer.getBrojTelefona() + "|"
-                        + dispecer.getPlata() + "|" + dispecer.getBrojTelefonskeLinije() + "|"
-                        + dispecer.getTelefonskaOdeljenja().ordinal() + "|" + dispecer.isObrisan() + "\n";
-            }
-
-            writer.write(sadrzaj);
-            writer.close();
-        } catch (Exception e) {
-            System.out.println("Greska prilikom upisa dispecera u fajl.");
-        }
-    }*/
 
     public void ucitajMusterije(String putanja){
         File file = new File(putanja);
@@ -816,16 +795,7 @@ public class SveListe {
         return null;
     }
 
-/*    public void snimiSve() {
-		snimiAutomobile();
-		snimiDispecere();
-		snimiMusterije();
-		snimiTaksiSluzbe();
-	    snimiVozace();
-		snimiVoznje();
-}*/
-
-   private void snimiMusterije() {
+    private void snimiMusterije() {
     }
 
     private void snimiVozace() {
